@@ -1,1 +1,1 @@
-print("Say hello to my teacher with PyCharm:^")
+print("Say hello to my teacher with PyCharm")
